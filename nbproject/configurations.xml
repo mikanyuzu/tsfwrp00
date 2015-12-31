@@ -2,9 +2,11 @@
 <configurationDescriptor version="97">
   <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
     <logicalFolder name="SourceFiles" displayName="ソース・ファイル" projectFiles="true">
+      <itemPath>class1.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="HeaderFiles" displayName="ヘッダー・ファイル" projectFiles="true">
+      <itemPath>class1.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles" displayName="リソース・ファイル" projectFiles="true">
     </logicalFolder>
@@ -30,6 +32,10 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="class1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="class1.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -53,6 +59,10 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="class1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="class1.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
