@@ -35,6 +35,9 @@
       <item path="class1.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="class1.h" ex="false" tool="3" flavor2="0">
+      <item path="class2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="class2.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
@@ -62,6 +65,9 @@
       <item path="class1.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="class1.h" ex="false" tool="3" flavor2="0">
+      <item path="class2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="class2.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>

@@ -20,7 +20,9 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-
+    
+    std::cout << "start" << std::endl;
+    std::cout << "end" << std::endl;
     return 0;
 }
 
